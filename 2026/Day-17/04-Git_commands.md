@@ -20,7 +20,7 @@
 
 # IMPORTANT NOTE
 
-In this lab you will learn how to:
+When using git you will basically work 80% of the time using the following commands:
 
 - Check Git repository status
 - Stage files
